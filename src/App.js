@@ -1,4 +1,5 @@
-import logo from './logo.svg';
+import React from 'react';
+import logo from './sajjadkazi-1.JPG';
 import './App.css';
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
         My name is Sajjad Kazi and I'm going to master React!
+            
         </p >
         <a
           className="App-link"
@@ -15,7 +17,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          
         </a>
       </header>
     </div>
